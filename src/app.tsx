@@ -1,10 +1,11 @@
-import { ClsxTailwindMerge } from "@/components/clsx-tailwind-merge";
+import { ReactQrCode } from "@/components/react-qr-code";
+import { Shiki } from "@/components/shiki";
 
 export function App() {
 
     return (
         <div className="p-32">
-            <ClsxTailwindMerge/>
+            <Shiki/>
         </div>
     )
 }
