@@ -1,10 +1,10 @@
-import { ReactQrCode } from "@/components/react-qr-code";
+import { QueryString } from "@/components/query-string";
 
 export function App() {
 
     return (
         <div className="p-32">
-            <ReactQrCode/>
+            <QueryString/>
         </div>
     )
 }
