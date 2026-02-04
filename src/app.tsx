@@ -1,10 +1,10 @@
-import { QueryString } from "@/components/query-string";
+import { NuqsContainer } from "@/components/nuqs";
 
 export function App() {
 
     return (
         <div className="p-32">
-            <QueryString/>
+            <NuqsContainer/>
         </div>
     )
 }

@@ -1,10 +1,12 @@
-01. html-react-parser  ==> HTML react 解析
-02. motion             ==> 动画库
-03. query-string       ==> URL 查询参数解析
-04. radash             ==> 轻量 ES 工具库
-05. rc-pagination      ==> 分页插件
-06. react-icons        ==> 字体图标
-07. react-is           ==> react 类型辅助
-08. react-qr-code      ==> 二维码
-09. swr                ==> 客户端 fetch hook
-10. usehooks-ts        ==> react hooks
+html-react-parser
+motion
+nuqs
+query-string
+radash
+rc-pagination
+react-icons
+react-is
+react-qr-code
+swr
+use-immer
+usehooks-ts
