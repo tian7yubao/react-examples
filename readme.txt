@@ -1,3 +1,4 @@
+clsx-tailwind-merge
 html-react-parser
 motion
 nuqs

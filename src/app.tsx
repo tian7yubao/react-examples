@@ -1,10 +1,10 @@
-import { NuqsContainer } from "@/components/nuqs";
+import { ClsxTailwindMerge } from "@/components/clsx-tailwind-merge";
 
 export function App() {
 
     return (
         <div className="p-32">
-            <NuqsContainer/>
+            <ClsxTailwindMerge/>
         </div>
     )
 }
