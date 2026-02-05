@@ -10,7 +10,7 @@ const code =
     )
 }`;
 
-const html: Promise<string> = codeToHtml(code, { lang: "java", theme: "aurora-x" });
+const html: Promise<string> = codeToHtml(code, { lang: "tsx", theme: "aurora-x" });
 
 export function Shiki() {
 

@@ -16,11 +16,9 @@ export function ReactWindow() {
     const numbers: number[] = [ ...range(1, 1000) ];
 
     return (
-        <div>
-            <List className="h-100 bg-slate-200" rowComponent={ Row }
-                  rowCount={ numbers.length }
-                  rowHeight={ 40 }
-                  rowProps={ { numbers } }/>
-        </div>
+        <List className="h-100 bg-slate-200" rowComponent={ Row }
+              rowCount={ numbers.length }
+              rowHeight={ 40 }
+              rowProps={ { numbers } }/>
     )
 }
