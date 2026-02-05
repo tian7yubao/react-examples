@@ -1,10 +1,10 @@
-import { DndKitReact } from "@/components/dnd-kit-react";
+import { ReactHookForm } from "@/components/react-hook-form";
 
 export function App() {
 
     return (
         <div className="p-32">
-            <DndKitReact/>
+            <ReactHookForm/>
         </div>
     )
 }
