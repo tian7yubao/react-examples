@@ -5,9 +5,12 @@ nuqs
 query-string
 radash
 rc-pagination
+react-error-boundary
 react-icons
 react-is
 react-qr-code
+shiki
 swr
 use-immer
 usehooks-ts
+react-markdown

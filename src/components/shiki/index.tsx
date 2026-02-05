@@ -4,10 +4,10 @@ import { codeToHtml } from "shiki";
 import { use } from "react";
 
 const code =
-`public class Foo {
-    public static void main(String[] args) {
-        System.out.println("hello world");
-    }
+`export function Foo() {
+    return (
+        <div className="bg-rose-500 text-2xl text-white">shiki</div> 
+    )
 }`;
 
 const html: Promise<string> = codeToHtml(code, { lang: "java", theme: "aurora-x" });
