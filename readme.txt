@@ -1,4 +1,5 @@
 clsx-tailwind-merge     ==> react 动态类选择处理、tailwind 合并
+@dnd-kit/react          ==> react 拖拽 hook
 html-react-parser       ==> HTML 解析
 motion                  ==> 动画
 nuqs                    ==> 状态 URL 绑定
@@ -13,5 +14,5 @@ react-qr-code           ==> 二维码
 react-window            ==> 大列表虚拟渲染
 shiki                   ==> 高亮代码块
 swr                     ==> 客户端 fetch
-use-immer               ==> 不可变状态便捷 Hook
+use-immer               ==> 不可变状态便捷操作 Hook
 usehooks-ts             ==> react Hooks
